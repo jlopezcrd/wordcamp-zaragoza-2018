@@ -12,7 +12,7 @@ Creamos un fichero .env, (sí, con punto delante para que sea oculto) en el dire
 
 ```bash
 MYSQL_ROOT_PASSWORD=TUPASSWORD
-MYSQL_DATABASE=TUPASSWORD
+MYSQL_DATABASE=wordpress
 MYSQL_USER=TUPASSWORD
 MYSQL_PASSWORD=TUPASSWORD
 ```
