@@ -18,4 +18,6 @@ MYSQL_PASSWORD=TUPASSWORD
 ```
 
 ## Inicia el proyecto
+```bash
 docker-compose up
+```
